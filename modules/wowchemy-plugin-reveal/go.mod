@@ -3,5 +3,5 @@ module github.com/sowmyamanojna/wowchemy-hugo-themes/modules/wowchemy-plugin-rev
 go 1.15
 
 require (
-	github.com/sowmyamanojna/wowchemy-hugo-themes/modules/wowchemy-core main
+	github.com/sowmyamanojna/wowchemy-hugo-themes/modules/wowchemy-core v0.1.0
 )
